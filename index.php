@@ -44,7 +44,7 @@ $nome= 'Rebeca'; //criei uma variavel nome.
     echo 'Você é maior de idade.';
   } else {
     echo 'Você é menor de idade';
-  }//Se a idade for superior a 18, retornar que "Você é maior de idade", ou o contrário.
+  }//Se a idade for superior a 18, retornar que "Você é maior de idade".
 ?>
 <p> </p>
 
@@ -56,7 +56,7 @@ $nome= 'Rebeca'; //criei uma variavel nome.
     echo 'Você é menor de idade.';
   } else {
     echo 'Você é maior de idade';
-  }//Se a idade foi inferior a 17, retornar que "Você é menor de idade", ou o contrário.
+  }//Se a idade foi inferior a 17, retornar que "Você é menor de idade".
 
 ?>
 
