@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+} /*Escolhi as cores que mais gosto para serem as cores principais para a minha página. */
+
+header img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid blue;
+} /*caracteristicas da minha foto no meio da página*/
+
+.center{
+    text-align: center;
+} /*Criei uma classe para centralizar minha foto. */
+h1 {
+    color: blue;
+}
+footer img{
+    width: 70px;
+    height: 70px;
+} /* Para ajustar o tamanho dos footer que estão no fim da página.*/
+footer {
+    display: flex;
+    justify-content: center;
+} /* Para que os footer sejam centralizados.*/
+footer a {
+     margin: 15px;
+} /* Para que eles se afastem entre si.*/
